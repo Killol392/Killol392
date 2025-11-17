@@ -29,10 +29,6 @@ I value clean architecture, reliability, and scalable design. Currently focused 
 **Databases:** PostgreSQL, MySQL, MongoDB, Oracle  
 **Other Tools:** Git, JIRA, Postman, NumPy, Pandas, OpenCV  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,js,react,nextjs,nodejs,express,spring,mongodb,mysql,postgres,aws,docker,kubernetes,git&perline=8" />
-</p>
-
 ---
 
 ## Experience
